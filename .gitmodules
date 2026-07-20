@@ -10,3 +10,15 @@
 [submodule "pc/walt-disney-world-quest"]
 	path = pc/walt-disney-world-quest
 	url = https://github.com/ravenDS/WDWRacing-tools.git
+[submodule "ps3/PAMFtool"]
+	path = ps3/PAMFtool
+	url = https://github.com/ravenDS/PAMFtool.git
+[submodule "pc/chicken-invaders/Chicken-Extractor"]
+	path = pc/chicken-invaders/Chicken-Extractor
+	url = https://github.com/ravenDS/Chicken-Extractor.git
+[submodule "pc/twilight-games/TwL-Packer"]
+	path = pc/twilight-games/TwL-Packer
+	url = https://github.com/ravenDS/TwL-Packer.git
+[submodule "ps2/IPUenc"]
+	path = ps2/IPUenc
+	url = https://github.com/ravenDS/IPUenc.git
