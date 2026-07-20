@@ -1,3 +1,9 @@
 [submodule "pc/flatout/flatout-blender-tools"]
 	path = pc/flatout/flatout-blender-tools
 	url = https://github.com/RavenDS/flatout-blender-tools.git
+[submodule "pc/zango-games/Zango-Unpacker"]
+	path = pc/zango-games/Zango-Unpacker
+	url = https://github.com/ravenDS/Zango-Unpacker.git
+[submodule "pc/zango-games/Zango-Bypass"]
+	path = pc/zango-games/Zango-Bypass
+	url = https://github.com/ravenDS/Zango-Bypass.git
