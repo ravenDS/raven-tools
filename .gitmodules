@@ -1,0 +1,3 @@
+[submodule "pc/flatout/flatout-blender-tools"]
+	path = pc/flatout/flatout-blender-tools
+	url = https://github.com/RavenDS/flatout-blender-tools.git
