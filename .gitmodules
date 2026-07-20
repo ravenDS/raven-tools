@@ -7,3 +7,6 @@
 [submodule "pc/zango-games/Zango-Bypass"]
 	path = pc/zango-games/Zango-Bypass
 	url = https://github.com/ravenDS/Zango-Bypass.git
+[submodule "pc/walt-disney-world-quest"]
+	path = pc/walt-disney-world-quest
+	url = https://github.com/ravenDS/WDWRacing-tools.git
